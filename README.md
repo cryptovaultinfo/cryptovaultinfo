@@ -18,4 +18,6 @@ Whitepaper: Coming soon!
 Medium: Coming soon!
 
 Token market Cap: Coming soon!
+
+Exchanges where Crypto Vault is availble for purchase: Ubeswap
 -->
