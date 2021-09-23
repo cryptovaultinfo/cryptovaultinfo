@@ -5,17 +5,17 @@ I am the creator of Crypto Vault and this is our official github! Here you can v
 
 Here are some links that you might find usefull
 
-Website: Coming soon!
+Website: https://cryptovaultinfo.wixsite.com/website
 
-Twitter: Coming soon!
+Twitter: https://twitter.com/cryptovaultinfo
 
 Reddit: Coming soon! 
 
 Telegram: Coming soon!
 
-Whitepaper: Coming soon!
+Whitepaper: https://1392589b-c10a-4d1c-b6f6-08a8c91cc63b.filesusr.com/ugd/52d6ce_a61933f8c31242468e508b3544bebd9a.pdf
 
-Medium: Coming soon!
+Medium: https://medium.com/@cryptovaultinfo
 
 Token market Cap: Coming soon!
 
