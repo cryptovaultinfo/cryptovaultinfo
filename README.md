@@ -9,7 +9,7 @@ Website: https://cryptovaultinfo.wixsite.com/website
 
 Twitter: https://twitter.com/cryptovaultinfo
 
-Reddit: Coming soon! 
+Reddit: https://www.reddit.com/r/cryptovaultofficial/
 
 Telegram: Coming soon!
 
